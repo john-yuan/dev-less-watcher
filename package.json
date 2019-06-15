@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "@john-yuan/dev-simple-logger": "^1.0.1",
+    "chokidar": "^3.0.0",
+    "fs-extra": "^8.0.1",
+    "less": "^3.9.0",
+    "x-common-utils": "^1.4.0"
+  },
+  "name": "@john-yuan/dev-less-watcher",
+  "version": "0.0.1",
+  "description": "Compile the less files on file changed.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-yuan/dev-less-watcher.git"
+  },
+  "keywords": [
+    "less-watcher"
+  ],
+  "author": "JOHN YUAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/john-yuan/dev-less-watcher/issues"
+  },
+  "homepage": "https://github.com/john-yuan/dev-less-watcher#readme"
+}
